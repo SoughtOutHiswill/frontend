@@ -1,0 +1,20 @@
+li{
+    color: blue;
+    background-color: burlywood;
+    border:2px solid black;
+    width: 100px;
+    border-radius: 2px;
+}
+h2{
+    color:red;
+    font-size: larger;
+}
+
+ol{
+    background-color:black;
+    width:20px;
+}
+ul.hover{
+    border-radius: 10px solid white;
+    color:white;
+}
